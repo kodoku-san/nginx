@@ -1,4 +1,4 @@
-# Load Balancing với Nginx
+# [Load Balancing với Nginx](https://youtu.be/BAjrc3MUqyk)
 
 Trong môi trường phân phối ứng dụng, load balancing là một kỹ thuật quan trọng giúp phân phối tải giữa các server backend để cải thiện hiệu suất. Nginx là một trong những máy chủ web phổ biến nhất, cung cấp một số tính năng mạnh mẽ để cấu hình load balancing.
 
